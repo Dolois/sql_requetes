@@ -1,10 +1,16 @@
 ## Créer la database projetHotel
 CREATE DATABASE projethotel character set 'utf8';
 
+-------------------------
+
 SHOW databases;
 
-## Connecter à la database projetHotel
+-------------------------
+
+## Utiliser la database projetHotel
 USE projetHotel;
+
+-------------------------
 
 ## Créer la table hotel avec une PK id
 CREATE TABLE hotel (
@@ -14,7 +20,12 @@ CREATE TABLE hotel (
 	PRIMARY KEY ( id )
 );
 
+-------------------------
+
 SHOW tables;
+![alt-text](https://github.com/Dolois/sql_requetes/blob/master/afficher%20les%20tables%20de%20la%20database%20projetHotel.png)
+
+-------------------------
 
 ## Insérer une première occurence dans la table hotel
 INSERT INTO hotel (id, nom, nb_etoile) VALUES
