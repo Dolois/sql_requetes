@@ -31,7 +31,7 @@ CREATE TABLE hotel (
 
 -------------------------
 
-## Afficher toutes las tables de la base de données projetHotel
+## Afficher toutes les tables de la base de données projetHotel
 SHOW tables;
 
 ![alt-text](https://github.com/Dolois/sql_requetes/blob/master/afficher%20les%20tables%20de%20la%20database%20projetHotel.png)
