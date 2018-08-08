@@ -4,6 +4,7 @@ CREATE DATABASE projethotel character set 'utf8';
 -------------------------
 
 SHOW databases;
+![alt-text](https://github.com/Dolois/sql_requetes/blob/master/afficher%20toutes%20les%20databases.png)
 
 -------------------------
 
