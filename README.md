@@ -35,6 +35,7 @@ SELECT * FROM hotel WHERE id = 1;
 
 ## Sélectionner la deuxième occurence de la table hotel
 SELECT * FROM hotel WHERE id = 2;
+[alt-text](https://github.com/Dolois/sql_requetes/blob/master/selectionner%20la%20deuxième%20occurence%20de%20la%20table%20hotel.png)
 
 
 ## Supprimer la table hotel
