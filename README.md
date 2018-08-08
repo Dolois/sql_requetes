@@ -59,7 +59,7 @@ SELECT * FROM hotel;
 
 -------------------------
 
-## nombre d'occurences dans la table hotel
+## Nombre d'occurences dans la table hotel
 Select count(*) FROM hotel;
 
 ![alt-text](https://github.com/Dolois/sql_requetes/blob/master/nombre%20d'occurences%20dans%20la%20table%20hotel.png)
