@@ -24,29 +24,40 @@ INSERT INTO hotel (id, nom, nb_etoile) VALUES
 INSERT INTO hotel (id, nom, nb_etoile) VALUES
 (1, ' Hotel Mandarin Oriental', 7) ;
 
+-------------------------
+
 ## Lister les deux occurences de la table hotel
 SELECT * FROM hotel;
 
 ![alt-text](https://github.com/Dolois/sql_requetes/blob/master/lister%20les%20deux%20occurences%20de%20la%20table%20hotel.png)
+
+-------------------------
 
 ## nombre d'occurences dans la table hotel
 Select count(*) FROM hotel;
 
 ![alt-text](https://github.com/Dolois/sql_requetes/blob/master/nombre%20d'occurences%20dans%20la%20table%20hotel.png)
 
+-------------------------
+
 ## Sélectionner la première occurence de la table hotel
 SELECT * FROM hotel WHERE id = 1;
 
 ![alt-text](https://github.com/Dolois/sql_requetes/blob/master/selectionner%20la%20première%20occurence%20de%20la%20table%20hotel.bmp)
+
+-------------------------
 
 ## Sélectionner la deuxième occurence de la table hotel
 SELECT * FROM hotel WHERE id = 2;
 
 ![alt-text](https://github.com/Dolois/sql_requetes/blob/master/selectionner%20la%20deuxième%20occurence%20de%20la%20table%20hotel.png)
 
+-------------------------
 
 ## Supprimer la table hotel
 DROP TABLE hotel;
+
+-------------------------
 
 ## Supprimer la database projetHotel
 DROP DATABASE projetHotel;
