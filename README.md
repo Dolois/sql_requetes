@@ -19,10 +19,14 @@ SHOW tables;
 ## Insérer une première occurence dans la table hotel
 INSERT INTO hotel (id, nom, nb_etoile) VALUES
 (1, ' Hotel Georges V', 5) ;
+![alt-text](https://github.com/Dolois/sql_requetes/blob/master/insérer%20une%20première%20occurence%20dans%20la%20table%20hotel.png)
+
+-------------------------
 
 ## Insérer une deuxième occurence dans la table hotel
 INSERT INTO hotel (id, nom, nb_etoile) VALUES
 (1, ' Hotel Mandarin Oriental', 7) ;
+![alt-text](https://github.com/Dolois/sql_requetes/blob/master/insérer%20une%20deuxième%20occurence%20dans%20la%20table%20hotel.png)
 
 -------------------------
 
