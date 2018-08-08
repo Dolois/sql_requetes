@@ -1,4 +1,4 @@
-## Créer la database projetHotel
+## Créer la base de données projetHotel
 CREATE DATABASE projethotel character set 'utf8';
 
 -------------------------
@@ -10,7 +10,7 @@ SHOW databases;
 
 -------------------------
 
-## Utiliser la database projetHotel
+## Utiliser la base de données projetHotel
 USE projetHotel;
 
 ![alt-text](https://github.com/Dolois/sql_requetes/blob/master/utiliser%20la%20database%20projetHotel.png)
@@ -85,5 +85,5 @@ DROP TABLE hotel;
 
 -------------------------
 
-## Supprimer la database projetHotel
+## Supprimer la base de données projetHotel
 DROP DATABASE projetHotel;
