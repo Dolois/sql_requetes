@@ -9,6 +9,7 @@ SHOW databases;
 
 ## Utiliser la database projetHotel
 USE projetHotel;
+
 ![alt-text](https://github.com/Dolois/sql_requetes/blob/master/utiliser%20la%20database%20projetHotel.png)
 ![alt-text](https://github.com/Dolois/sql_requetes/blob/master/utiliser%20la%20database%20projetHotel%20validation.png)
 
