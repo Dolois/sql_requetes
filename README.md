@@ -19,6 +19,8 @@ CREATE TABLE hotel (
 	nb_etoile INT NOT NULL,
 	PRIMARY KEY ( id )
 );
+![alt-text](https://github.com/Dolois/sql_requetes/blob/master/créer%20la%20table%20hotel%20de%20la%20database%20projetHotel.png)
+![alt-text](https://github.com/Dolois/sql_requetes/blob/master/créer%20la%20table%20hotel%20de%20la%20database%20projetHotel%20validation.png)
 
 -------------------------
 
