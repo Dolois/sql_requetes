@@ -29,7 +29,7 @@ SELECT * FROM hotel;
 
 ## nombre d'occurences dans la table hotel
 SELECT count(*) FROM hotel;
-![alt-text]https://github.com/Dolois/sql_requetes/blob/master/nombre%20d'occurences%20dans%20la%20table%20hotel.png)
+![alt-text](https://github.com/Dolois/sql_requetes/blob/master/nombre%20d'occurences%20dans%20la%20table%20hotel.png)
 
 ## Sélectionner la première occurence de la table hotel
 SELECT * FROM hotel WHERE id = 1;
