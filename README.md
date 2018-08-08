@@ -26,9 +26,10 @@ INSERT INTO hotel (id, nom, nb_etoile) VALUES
 
 ## Lister les deux occurences de la table hotel
 SELECT * FROM hotel;
+![alt-text](https://github.com/Dolois/sql_requetes/blob/master/lister%20les%20deux%20occurences%20de%20la%20table%20hotel.png)
 
 ## nombre d'occurences dans la table hotel
-SELECT count(*) FROM hotel;
+Select count * FROM hotel;
 ![alt-text](https://github.com/Dolois/sql_requetes/blob/master/nombre%20d'occurences%20dans%20la%20table%20hotel.png)
 
 ## Sélectionner la première occurence de la table hotel
