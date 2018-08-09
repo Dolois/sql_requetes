@@ -80,6 +80,11 @@ SELECT * FROM hotel WHERE id = 2;
 
 -------------------------
 
+## Vider la table hotel
+TRUNCATE TABLE hotel;
+
+-------------------------
+
 ## Supprimer la table hotel
 DROP TABLE hotel;
 
