@@ -1,3 +1,14 @@
+### Le 08 Aout 2018
+
+### Exercice : A partir de MySQL Workbench
+
+### Comment créer une base nouvelle de données appelée “projet_hotel_sql” ?
+### Comment créer une table appelée “hotel” avec des champs/colonnes “id”, “nom”, “nb_etoile” ?
+### Comment ajouter deux lignes d’information hotels dans votre table hotel ? 
+### Comment afficher ces 2 lignes en SQL ?
+
+
+
 ## Créer la base de données projethotel
 CREATE DATABASE projethotel character set 'utf8';
 
