@@ -7,7 +7,7 @@
 ### Comment ajouter deux lignes d’information hotels dans votre table hotel ? 
 ### Comment afficher ces 2 lignes en SQL ?
 
-
+-------------------------
 
 ## Créer la base de données projethotel
 CREATE DATABASE projethotel character set 'utf8';
