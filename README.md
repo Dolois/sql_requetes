@@ -1,4 +1,4 @@
-## Créer la base de données projetHotel
+## Créer la base de données projethotel
 CREATE DATABASE projethotel character set 'utf8';
 
 -------------------------
