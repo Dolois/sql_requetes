@@ -2,7 +2,7 @@
 
 ### Exercice : A partir de MySQL Workbench
 
-### Comment créer une base nouvelle de données appelée “projet_hotel_sql” ?
+### Comment créer une base nouvelle de données appelée “projethotel” ?
 ### Comment créer une table appelée “hotel” avec des champs/colonnes “id”, “nom”, “nb_etoile” ?
 ### Comment ajouter deux lignes d’information hotels dans votre table hotel ? 
 ### Comment afficher ces 2 lignes en SQL ?
